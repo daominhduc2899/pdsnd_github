@@ -20,4 +20,4 @@ Read.me
 ### Credits
 https://github.com/udacity/pdsnd_github
 
-This is completed by: Aljawharah Mohammad 
+This is completed by: Dao Minh Duc
